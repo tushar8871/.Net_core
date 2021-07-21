@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using  Microsoft.VisualStudio.Web.BrowserLink;
 using WebApp.Models;
 
 namespace WebApp
